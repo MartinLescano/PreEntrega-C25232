@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Batman",
+    "title": "Ghost Story",
+    "price": 26,
+    "category": "comic",
+    "publisher": "DC Comics",
+    "description": "Batman siempre supo que su guerra de un solo hombre contra el crimen era un desafío difícil, pero, ¿se ha vuelto imposible? ¡Su último enemigo, el enigmático Ghost-Maker, llevará al Caballero Oscuro a su límite absoluto en su intento de proteger al joven y violento vigilante Cazapayasos y a su antigua archienemiga Harley Quinn! ¡El ganador se lleva Gotham!",
+    "imageUrl": "/images/batman-ghost-story.webp"
+  },
+  {
+    "id": "2",
+    "name": "Superman",
+    "title": "Unchained",
+    "price": 30,
+    "category": "comic",
+    "publisher": "DC Comics",
+    "description": "Superman ha sido liberado de sus ataduras. Liberado de las limitaciones que le impone la humanidad. Liberado para ser el dios que nació para ser. Pero, ¿qué significa eso para la Tierra y sus habitantes? ¿Y qué significa para Clark Kent, el hombre que siempre ha tratado de equilibrar sus dos mitades?",
+    "imageUrl": "/images/superman-unchained.webp"
+  },
+  {
+    "id": "3",
+    "name": "Harley Quinn",
+    "title": "Die Laughing",
+    "price": 26,
+    "category": "comic",
+    "publisher": "DC Comics",
+    "description": "Harley Quinn está de vuelta en Gotham City, y esta vez no está jugando. Cuando un nuevo villano comienza a aterrorizar la ciudad, Harley debe enfrentarse a su pasado y decidir qué tipo de héroe quiere ser. Con la ayuda de viejos amigos y nuevos aliados, Harley se embarca en una misión para salvar Gotham y redimirse a sí misma.",
+    "imageUrl": "/images/harley-quinn-die-laughing.webp"
+  },
+  {
+    "id": "4",
+    "name": "Hellboy",
+    "title": "The Call Of Darkness",
+    "price": 28,
+    "category": "comic",
+    "publisher": "Marvel Comics",
+    "description": "Hellboy se enfrenta a su destino en 'The Call of Darkness'. Mientras las fuerzas oscuras se reúnen para reclamarlo, Hellboy debe decidir si abrazar su herencia demoníaca o luchar por la humanidad que ha llegado a amar. Con aliados inesperados y enemigos mortales, esta historia épica redefine lo que significa ser un héroe.",
+    "imageUrl": "/images/hellboy-the-call-of-darkness.webp"
+  },
+  {
+    "id": "5",
+    "name": "Batman",
+    "title": "The Killing Joke",
+    "price": 24,
+    "category": "comic",
+    "publisher": "DC Comics",
+    "description": "En 'The Killing Joke', el Joker escapa de Arkham Asylum y desata un caos sin precedentes en Gotham City. Con la intención de demostrar que cualquier persona puede volverse loca con el estímulo adecuado, el Joker apunta a la familia de Barbara Gordon, poniendo a Batman en una carrera contra el tiempo para salvarlos y detener al Príncipe Payaso del Crimen de una vez por todas.",
+    "imageUrl": "/images/killing-joke.webp"
+  },
+  {
+    "id": "6",
+    "name": "Spider Gwen",
+    "title": "Spider Woman Vol. 2",
+    "price": 22,
+    "category": "comic",
+    "publisher": "Marvel Comics",
+    "description": "En 'Spider Woman Vol. 2', Gwen Stacy, también conocida como Spider-Gwen, navega por los desafíos de ser una heroína en un mundo que no siempre la acepta. Mientras lucha contra nuevos villanos y enfrenta dilemas personales, Gwen debe encontrar su lugar tanto como héroe como en su vida cotidiana.",
+    "imageUrl": "/images/spider-gwen-spider-woman-vol2.webp"
+  },
+  {
+    "id": "7",
+    "name": "X-Men",
+    "title": "Extraordinary",
+    "price": 32,
+    "category": "comic",
+    "publisher": "Marvel Comics",
+    "description": "En 'X-Men Extraordinary', los mutantes enfrentan una amenaza sin precedentes que pone en peligro tanto a su especie como al mundo en general. Con nuevas alianzas y viejos enemigos resurgiendo, los X-Men deben unirse más que nunca para proteger su futuro y el de la humanidad.",
+    "imageUrl": "/images/x-men-extraordinary.webp"
+  },
+  {
+    "id": "8",
+    "name": "Batman",
+    "title": "FIGURA BAT-TECH TACTICAL BATMAN 30 CM ARTICULADA",
+    "price": 45,
+    "category": "figure",
+    "publisher": "DC Comics",
+    "description": "Figura articulada 30 cm coleccionable. Con 11 puntos de articulación. En esta oportunidad, traemos para ti a Batman, en su traje Tactico de Renacimiento. Tienen style sculptcomic. Las capas son de tela. Edad recomendada desde 3 años. Esta coleccion no incluye a Batman.",
+    "imageUrl": "/images/batman-figure.webp"
+  },
+  {
+    "id": "9",
+    "name": "Superman",
+    "title": "FIGURA MC FARLANE SUPERMAN DC MULTIVERSE",
+    "price": 40,
+    "category": "figure",
+    "publisher": "DC Comics",
+    "description": "¡Llega la nueva colección Dc Multiverse por parte de McFarlane! En esta ocasión, Superman. Mide aproximadamente 17cm de alto.",
+    "imageUrl": "/images/superman-figure.webp"
+  },
+  {
+    "id": "10",
+    "name": "Harley Quinn",
+    "title": "FIGURA HARLEY QUINN (BIRDS OF PREY) BENDY FIGS 17CM",
+    "price": 38,
+    "category": "figure",
+    "publisher": "DC Comics",
+    "description": "Figura Original Coleccionable Bendy Figs presentando a Harley Quinn, interpretada por Margot Robbie, tal como aparece en la película Birds of Prey. Mide 17 cm de alto aproximadamente.",
+    "imageUrl": "/images/harley-quinn-figure.webp"
+  },
+  {
+    "id": "11",
+    "name": "Wolverine",
+    "title": "FIGURA WOLVERINE X-MEN DIORAMA Q FIG QUANTUM MECHANIX",
+    "price": 50,
+    "category": "figure",
+    "publisher": "Marvel Comics",
+    "description": "Figura Original Quantum Mechanics Q Fig Marvel Diorama, de la Colección X-Men mostrando a Wolverine tal como se lo puede apreciar en la popular franquicia, en pose de defensa, mostrando sus icónicas garras. Mide 15 cm de alto aproximadamente, e incluye una base para ser expuesto.",
+    "imageUrl": "/images/wolverine-figure.webp"
+  }
+]
