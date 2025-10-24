@@ -15,7 +15,7 @@ export const ItemDetailContainer = () => {
             return response.json();
         })
         .then((data) => {
-            const found = data.find((prod) => prod.id === parseInt(id));
+            const found = data.find((prod) => parseInt(prod.id) === parseInt(id));
             if (found) {
                 setDetail(found);
             }else {

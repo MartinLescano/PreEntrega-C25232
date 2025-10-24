@@ -16,7 +16,7 @@ export const CartProvider = ({children}) => {
         }
 
         setCart([...cart, item]);
-        alert(`${item.title} agregado al carrito.`);
+        alert(`${item.name} agregado al carrito.`);
     };
 
     const clearCart = () => {
